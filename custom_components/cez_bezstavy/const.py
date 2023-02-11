@@ -1,0 +1,1 @@
+DOMAIN = "cez_bezstavy"

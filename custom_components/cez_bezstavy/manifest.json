@@ -1,0 +1,11 @@
+{
+  "codeowners": ["ogajduse"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/ogajduse/cez_bezstavy",
+  "domain": "cez_bezstavy",
+  "iot_class": "cloud_polling",
+  "name": "čEZ Bez šťávy",
+  "requirements": [],
+  "version": "0.0.1"
+}
